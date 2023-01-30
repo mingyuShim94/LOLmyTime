@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "myLolTime",
+    "slug": "myLolTime",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "myLolTime"
+}
