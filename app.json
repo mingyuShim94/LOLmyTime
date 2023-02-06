@@ -5,7 +5,12 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a216f734-ee72-4498-9fd4-05d5bccb4278"
+      }
+    }
   },
   "name": "myLolTime"
 }
