@@ -1,4 +1,5 @@
-const API_KEY = "RGAPI-519f8a34-91a7-475c-9259-a373cb2a6ec5";
+import Config from "react-native-config";
+const API_KEY = Config.Riot_API_KEY;
 const BASE_URL = "https://kr.api.riotgames.com/lol";
 export const lolApi = async ({ queryKey }) => {
   let totalTime = 0;
